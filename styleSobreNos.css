@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #294294;
+    color: #333;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #21384e;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #577ca1;
+    font-size: 36px;
+}
+
+h2 {
+    color: #416c97;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+ul {
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+ul li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contact-info p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contact-info a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    color: #16a085;
+}
+.container-termo-botao{
+
+    width: 180px;
+    padding: 20px;
+    border-radius: 12px;
+    border: none;
+    background: linear-gradient(135deg, rgb(55, 61, 175) 0%, rgb(48, 42, 42) 100%);;
+    color: white;
+    transform: translateX(330px);
+    
+
+}
